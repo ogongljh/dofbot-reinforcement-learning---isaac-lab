@@ -1,3 +1,18 @@
+# === 내가 만든 코드만 업로드 ===
+/*
+
+!/scripts/
+!/source/
+!/source/isaaclab_tasks/
+!/source/isaaclab_tasks/lighting/
+
+__pycache__/
+*.pyc
+*.log
+*.usd
+*.zip
+wandb/
+models/
 # C++
 **/cmake-build*/
 **/build*/
